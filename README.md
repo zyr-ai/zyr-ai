@@ -2,7 +2,7 @@
 
 **First-year CS student at CTUT · Python-first, building AI tooling**
 
-Building AI tooling in public — agent frameworks, LLM toolkits, and side quests.
+Building AI tooling in public — one project at a time.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zyren.novem@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zyr-ai)
 
@@ -11,21 +11,13 @@ Building AI tooling in public — agent frameworks, LLM toolkits, and side quest
 ## About
 
 - Based in Can Tho, Vietnam
-- Focus areas: AI systems and tooling, Python, and learning in public
+- Focus areas: AI systems, developer tooling, and Python
 
 ## Current Focus
 
-- Learning Go by building real things: [agentcore](https://github.com/zyr-ai/agentcore) and [litellm](https://github.com/zyr-ai/litellm)
 - Python-first for AI experiments, scripting, and anything fun
-- Multi-agent AI applications (plan → draft → review → polish pipelines)
-
-## Selected Work
-
-| Area | Work |
-| --- | --- |
-| Agent Framework | [agentcore](https://github.com/zyr-ai/agentcore) — a minimal, composable Go library for building AI agent applications |
-| LLM Tooling | [litellm](https://github.com/zyr-ai/litellm) — LiteLLM for Go: the easiest way to write LLM-based programs in Go |
-| AI Applications | Multi-agent AI writing CLI — private, in development |
+- Digging into AI agents and multi-agent systems
+- Getting comfortable with Go, C/C++, TypeScript, and Rust
 
 ## Tech Stack
 
