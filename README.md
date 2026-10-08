@@ -1,23 +1,22 @@
-# Zyr - AI
+# Nhi (Zyr)
 
-**`[Your role — e.g. AI Engineer]` · AI Systems & Developer Tooling**
+**First-year CS student at CTUT · Python-first, building AI tooling**
 
-Building AI systems end to end — agent frameworks in Go, LLM tooling, and multi-agent applications.
+Building AI tooling in public — agent frameworks, LLM toolkits, and side quests.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zyren.novem@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zyr-ai)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zyren.novem@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zyr-ai)
 
 ---
 
 ## About
 
-- Based in `[City]`, Vietnam
-- `[Education — e.g. B.Eng. in ...]`
-- Focus areas: AI agent frameworks, LLM application infrastructure, developer experience
+- Based in Can Tho, Vietnam
+- Focus areas: AI systems and tooling, Python, and learning in public
 
 ## Current Focus
 
-- Composable agent libraries in Go — [agentcore](https://github.com/zyr-ai/agentcore)
-- Unified LLM access tooling in Go — [litellm](https://github.com/zyr-ai/litellm)
+- Learning Go by building real things: [agentcore](https://github.com/zyr-ai/agentcore) and [litellm](https://github.com/zyr-ai/litellm)
+- Python-first for AI experiments, scripting, and anything fun
 - Multi-agent AI applications (plan → draft → review → polish pipelines)
 
 ## Selected Work
@@ -32,12 +31,11 @@ Building AI systems end to end — agent frameworks in Go, LLM tooling, and mult
 
 | Languages | AI & LLM | Tooling |
 | --- | --- | --- |
-| Go, `[+ others]` | LLM APIs (OpenAI, OpenRouter), local models (Ollama) | CLI / TUI, multi-agent orchestration, `[+ your tools]` |
+| Python (favorite) · Go, C/C++, TypeScript, Rust (learning) | LLM APIs (OpenAI, OpenRouter) · local models via Ollama | Docker · Linux · VS Code |
 
-## Experience
+## Education
 
-**`[Company]`** — `[Role]` · `[dates]`
-- `[What you built / shipped]`
+**Can Tho University of Technology (CTUT)** — B.Sc. in Computer Science · First-year
 
 ## Contact
 
@@ -45,7 +43,6 @@ Building AI systems end to end — agent frameworks in Go, LLM tooling, and mult
 | --- | --- |
 | Email | [zyren.novem@gmail.com](mailto:zyren.novem@gmail.com) |
 | GitHub | [github.com/zyr-ai](https://github.com/zyr-ai) |
-| LinkedIn | `[your LinkedIn]` |
 
 ---
 
