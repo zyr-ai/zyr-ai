@@ -1,7 +1,7 @@
 {
   "username": "zyr-ai",
-  "layout": "default",
-  "theme": "infernal",
-  "activity": "arise",
+  "layout": "custom",
+  "widgets": ["hunter", "ladder", "web", "skills"],
+  "theme": "github_native",
   "timezone": "Asia/Ho_Chi_Minh"
 }
