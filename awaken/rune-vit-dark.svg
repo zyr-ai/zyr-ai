@@ -32,21 +32,21 @@
 <linearGradient id="prism" x1="0" x2="1"><stop offset="0" stop-color="#ff3d5e" stop-opacity="0"/><stop offset=".3" stop-color="#ffc53d" stop-opacity=".45"/><stop offset=".5" stop-color="#3fd6f0" stop-opacity=".55"/><stop offset=".7" stop-color="#d77bff" stop-opacity=".45"/><stop offset="1" stop-color="#3ecf8e" stop-opacity="0"/></linearGradient>
 
 </defs>
-<path d="M18 4H196V116L182 130H4V18Z" fill="#0b1426"/>
+<path d="M18 4H196V116L182 130H4V18Z" fill="#1a0808"/>
 
-<path d="M18.4 4.8H195.3V115.5L181.6 129.3H4.8V18.4Z" fill="none" stroke="#3566b8" stroke-width="1.5"/>
-<path class="breathe" d="M185 1H199V15M1 119V133H15" fill="none" stroke="#3d8bff" stroke-width="2" filter="url(#glow)"/>
+<path d="M18.4 4.8H195.3V115.5L181.6 129.3H4.8V18.4Z" fill="none" stroke="#775b5b" stroke-width="1.5"/>
+<path class="breathe" d="M185 1H199V15M1 119V133H15" fill="none" stroke="#ff3333" stroke-width="2" filter="url(#glow)"/>
 <g>
 
-<path d="M24 18H72V60L66 66H18V24Z" fill="#060a14"/>
+<path d="M24 18H72V60L66 66H18V24Z" fill="#120404"/>
 <path d="M24.2 18.5H71.5V59.8L65.8 65.5H18.5V24.2Z" fill="none" stroke="#7b8496" stroke-width="1"/>
 <text x="45" y="49.2" class="rank" fill="#7b8496" text-anchor="middle">E</text>
 
 </g>
-<text x="84" y="36" class="label" fill="#8a9bc0">VIT</text>
-<text x="84" y="58" class="body" fill="#e6edf7">Active repos</text>
-<text x="18" y="98" class="value" fill="#e6edf7">2</text>
-<text x="182" y="98" class="caption" fill="#e6edf7" text-anchor="end">TOP 65%</text>
-<rect x="18" y="108" width="164" height="2" fill="#111d36"/>
+<text x="84" y="36" class="label" fill="#ad7070">VIT</text>
+<text x="84" y="58" class="body" fill="#ffcccc">Active repos</text>
+<text x="18" y="98" class="value" fill="#ffcccc">2</text>
+<text x="182" y="98" class="caption" fill="#ffcccc" text-anchor="end">TOP 65%</text>
+<rect x="18" y="108" width="164" height="2" fill="#251212"/>
 <rect class="grow" x="18" y="108" width="144.6" height="2" fill="#7b8496"/>
 </svg>

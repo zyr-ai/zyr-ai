@@ -2,7 +2,7 @@
   "login": "zyr-ai",
   "level": 2,
   "overall": "C",
-  "overallPercentile": 0.6847842406975555,
+  "overallPercentile": 0.6907098494982705,
   "layout": "default",
   "class": {
     "name": "Necromancer",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 3,
+      "value": 4,
       "rank": "E",
-      "percentile": 0.08369112026801168
+      "percentile": 0.0987071945913395
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 3
+      "value": 4
     },
     {
       "id": "unbroken",
@@ -88,12 +88,12 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 38
+      "value": 30
     },
     {
       "id": "gate-opener",
       "tier": 0,
-      "value": 3
+      "value": 4
     },
     {
       "id": "raider",
@@ -138,7 +138,7 @@
     {
       "id": "berserker",
       "tier": 0,
-      "value": 3
+      "value": 5
     },
     {
       "id": "diligent",
@@ -192,5 +192,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-08T04:59:06.132Z"
+  "syncedAt": "2026-10-08T05:50:38.541Z"
 }
