@@ -48,15 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "2",
-      "to": "3",
-      "at": "2026-10-08T21:59:31.303Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -187,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-16",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-15",
         "cleared": 0,
         "total": 3
@@ -244,5 +241,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-15T20:16:21.191Z"
+  "syncedAt": "2026-10-16T19:53:29.125Z"
 }
